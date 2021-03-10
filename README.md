@@ -1,3 +1,10 @@
+# E-index_student
+
+-A small react project made from fun and learning
+
+![e_index](https://user-images.githubusercontent.com/34587275/110696426-5fd4a080-81eb-11eb-860d-61c11b8cac29.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
